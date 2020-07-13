@@ -1,2 +1,7 @@
 # hello-world
-un nuevo repositorio
+
+
+un nuevo repositorio:
+
+
+Me encantan los animales.
